@@ -11,6 +11,7 @@ public class BankCustomerConstructor {
     BankCustomerConstructor(String name){
         this.name=name;
     }
+
     public static void main(String[] args) {
         BankCustomerConstructor c1=new BankCustomerConstructor("Aadi", 1234); //Adi -20
         BankCustomerConstructor c2=new BankCustomerConstructor("Sid"); // Sid -15

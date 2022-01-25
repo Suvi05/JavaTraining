@@ -6,6 +6,7 @@ public class ParameterizedConstructor {
         new ParameterizedConstructor("Sumit");
     }
     ParameterizedConstructor(String name){ //Parameterized Constructor -->User Define
+
         System.out.println("Parameterized Constructor");
     }
 }
