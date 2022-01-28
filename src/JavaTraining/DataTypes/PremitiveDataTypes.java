@@ -14,7 +14,7 @@ public class PremitiveDataTypes {
         int k=c+j;
 
         byte h=20;
-        byte i=a+h;
+        int i=a+h;
 
         System.out.println(i);
     }
