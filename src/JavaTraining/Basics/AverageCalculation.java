@@ -25,6 +25,11 @@ public class AverageCalculation {
 
         char grade1= S2.calculateGrade(avg);
         System.out.println("Grade of Student is : " +grade1);
+
+        int x=100;
+        System.out.println(System.identityHashCode(x));
+        Integer y= Integer.valueOf(x);
+        int z=y.hashCode();
     }
     public  int calculateAvg(int n1,int n2,int n3){
         return (n1+n2+n3)/3;
