@@ -1,4 +1,4 @@
-package JavaTraining.Abstraction;
+package JavaTraining.Abstraction.AbstractClasses;
 
 public class FiveSeries extends BMW {
     @Override
