@@ -4,7 +4,7 @@ public class A {
     final static float pi = 3.55f;
 //
 //    A() {
-//        //pi = 3.14f; //We can not initialise variable in constructor if it is already assigned in case of FINAL
+//        //pi = 3.14f; //We can not initialise variable in  constructor if it is already assigned in case of FINAL
 //    }
 
     public void displayValue() {
