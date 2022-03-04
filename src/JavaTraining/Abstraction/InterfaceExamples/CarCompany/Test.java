@@ -1,4 +1,4 @@
-package JavaTraining.Abstraction.InterfaceExamples;
+package JavaTraining.Abstraction.InterfaceExamples.CarCompany;
 
 public class Test {
     public static void main(String[] args) {
