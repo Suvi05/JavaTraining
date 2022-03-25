@@ -1,4 +1,4 @@
-package JavaTraining.Exceptions;
+package JavaTraining.Exceptions.RuntimeException;
 
 import java.util.Scanner;
 

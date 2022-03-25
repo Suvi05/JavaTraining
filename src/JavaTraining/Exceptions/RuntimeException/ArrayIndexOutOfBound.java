@@ -1,4 +1,4 @@
-package JavaTraining.Exceptions;
+package JavaTraining.Exceptions.RuntimeException;
 
 public class ArrayIndexOutOfBound {
     public static void main(String[] args) {
