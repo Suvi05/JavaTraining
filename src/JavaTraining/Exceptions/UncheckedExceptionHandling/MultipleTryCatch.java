@@ -1,4 +1,4 @@
-package JavaTraining.Exceptions.Handling;
+package JavaTraining.Exceptions.UncheckedExceptionHandling;
 
 public class MultipleTryCatch {
     public static void main(String[] args) { //Khali string //abc

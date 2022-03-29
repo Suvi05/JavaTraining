@@ -1,4 +1,4 @@
-package JavaTraining.Exceptions.Handling;
+package JavaTraining.Exceptions.UncheckedExceptionHandling;
 
 public class StringParser {
 

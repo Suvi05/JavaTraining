@@ -1,4 +1,4 @@
-package JavaTraining.Exceptions.Handling;
+package JavaTraining.Exceptions.UncheckedExceptionHandling;
 
 import java.util.Scanner;
 
@@ -11,10 +11,14 @@ public class ArithematicExceptionDemo {
             System.out.print("Enter first number : ");
             int b = sc.nextInt();
             int result = a / b;
-            System.out.print("Result : " + result);
-        } catch (ArithmeticException e) {
+            System.out.println("Result : " + result);
+        }
+        catch (ArithmeticException e) {
             System.out.println("Sorry bro! You can't divide by 0");
             System.out.println("Here we will close the resources");
+        }
+        finally {
+            System.out.println("Me param satya hu!!");
         }
     }
 }
