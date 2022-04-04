@@ -5,3 +5,4 @@ public class CheckedCustomException extends Exception {
         super(message);
     }
 }
+
